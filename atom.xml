@@ -6,7 +6,7 @@
   <link href="https://nebula-7293.github.io/" rel="alternate"/>
   <link href="https://nebula-7293.github.io/atom.xml" rel="self"/>
   <title>Nebulae</title>
-  <updated>2026-07-06T18:43:26.624Z</updated>
+  <updated>2026-07-11T13:22:33.141Z</updated>
   <entry>
     <category term="Practice" scheme="https://nebula-7293.github.io/categories/Practice/"/>
     <category term="generators" scheme="https://nebula-7293.github.io/tags/generators/"/>
@@ -16,9 +16,9 @@
     <link href="https://nebula-7293.github.io/2026/06/29/generators/"/>
     <published>2026-06-29T20:45:12.792Z</published>
     <summary>
-      <![CDATA[<h1 id="TL-DR"><a href="#TL-DR" class="headerlink" title="TL;DR"></a>TL;DR</h1><p>to be]]>
+      <![CDATA[<p>to be]]>
     </summary>
     <title>True-random (TRNG) and Pseudo-random (PRNG) Generators</title>
-    <updated>2026-07-06T18:43:26.624Z</updated>
+    <updated>2026-07-11T13:22:33.141Z</updated>
   </entry>
 </feed>
